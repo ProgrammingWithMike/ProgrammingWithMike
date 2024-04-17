@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ProgrammingWithMike
+- 👀 I’m interested in game development, mostly python and pygame
+- 🌱 I’m currently learning how to create large games using pygame
+- 💞️ I’m looking to collaborate on a big rpg that I have been planning on making for quite some time now
+- 📫 How to reach me: I have a discord server called ProgrammingWithMike (I didn't think very hard for a catchy name, ok?)
+- 😄 Pronouns: None
+- ⚡ Fun fact: I have been learning programming for over 5 years, and I love the channels ProgrammingWithMosh, and TechWithTim. Go check them out.
